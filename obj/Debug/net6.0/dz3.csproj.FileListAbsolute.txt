@@ -1,0 +1,15 @@
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.csproj.AssemblyReference.cache
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.AssemblyInfoInputs.cache
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.AssemblyInfo.cs
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.csproj.CoreCompileInputs.cache
+D:\forGithub\dz3\bin\Debug\net6.0\dz3.exe
+D:\forGithub\dz3\bin\Debug\net6.0\dz3.deps.json
+D:\forGithub\dz3\bin\Debug\net6.0\dz3.runtimeconfig.json
+D:\forGithub\dz3\bin\Debug\net6.0\dz3.dll
+D:\forGithub\dz3\bin\Debug\net6.0\dz3.pdb
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.dll
+D:\forGithub\dz3\obj\Debug\net6.0\refint\dz3.dll
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.pdb
+D:\forGithub\dz3\obj\Debug\net6.0\dz3.genruntimeconfig.cache
+D:\forGithub\dz3\obj\Debug\net6.0\ref\dz3.dll
